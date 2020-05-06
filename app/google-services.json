@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "105214068995",
+    "firebase_url": "https://monopolymobile-5b456.firebaseio.com",
+    "project_id": "monopolymobile-5b456",
+    "storage_bucket": "monopolymobile-5b456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105214068995:android:8ed5d6e38e1c8117050136",
+        "android_client_info": {
+          "package_name": "com.example.monopoly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105214068995-50kfp4c1nu27kr27n83lhbmga8iuio5i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monopoly",
+            "certificate_hash": "d00237e9d979b5b4984d8a07f81dd7b27627c501"
+          }
+        },
+        {
+          "client_id": "105214068995-24vlih5dhgqkdhljkc64tamn5gb4lldv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEYOGqLWzVfs4D8243V6Xn_8HlWT1r41A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105214068995-24vlih5dhgqkdhljkc64tamn5gb4lldv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
